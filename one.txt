@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 wo just want more and more
+=======
+a text
+git is easy,just do it
+>>>>>>> d67e88d0466e6da3330619dd527b6167610eb484
